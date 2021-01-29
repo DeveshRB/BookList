@@ -11,7 +11,7 @@
 - Learned more about Local Storage.💿
 - DOM manipulation.🎡
 
-### First I coded the entire Javascript in ES5 functions and prototypes and then converted it to ES6 classes and contructors. It was a fun challenge💨
+ ***First I coded the entire Javascript in ES5 functions and prototypes and then converted it to ES6 classes and contructors. It was a fun challenge💨***
 
 
 ## Checkout the webpage 👉 [Booklist](https://deveshb15.github.io/BookList/ "website")
